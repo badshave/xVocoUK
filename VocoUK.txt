@@ -1,0 +1,1124 @@
+#EXTINF:-1,[UK] SMITHSONIAN CHANNEL FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100770
+#EXTINF:-1,[US] [HD] SMITHSONIAN HD [EAST]
+http://line.4k-ott.com:80/voco432/AF6CD7C7/360528
+#EXTINF:-1,[US] [HD] SMITHSONIAN HD [WEST]
+http://line.4k-ott.com:80/voco432/AF6CD7C7/360529
+#EXTINF:-1,[UK] BBC 1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100648
+#EXTINF:-1,[UK] BBC 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100649
+#EXTINF:-1,[UK] BBC 3/CBBC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100650
+#EXTINF:-1,[UK] BBC 4/CBEEBIES FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100651
+#EXTINF:-1,[UK] BBC SCOTLAND FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100652
+#EXTINF:-1,[UK] ITV 1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100653
+#EXTINF:-1,[UK] ITV 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100654
+#EXTINF:-1,[UK] ITV 3 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100655
+#EXTINF:-1,[UK] ITV 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100656
+#EXTINF:-1,[UK] ITV BE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100657
+#EXTINF:-1,[UK] GB NEWS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/454912
+#EXTINF:-1,[UK] CHANNEL 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100658
+#EXTINF:-1,[UK] CHANNEL 5 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100659
+#EXTINF:-1,[UK] E4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100660
+#EXTINF:-1,[UK] TALK TV FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/714352
+#EXTINF:-1,[UK] CITV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100677
+#EXTINF:-1,[UK] TALK TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/714353
+#EXTINF:-1,[UK] CBBC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100661
+#EXTINF:-1,[UK] 4 SEVEN FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100662
+#EXTINF:-1,[UK] ALIBI FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100663
+#EXTINF:-1,[UK] BBC NEWS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100681
+#EXTINF:-1,[UK] BBC WORLD NEWS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100682
+#EXTINF:-1,[UK] BLOOMBERG FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100683
+#EXTINF:-1,[UK] CNN FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100684
+#EXTINF:-1,[UK] FRANCE 24 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100685
+#EXTINF:-1,[UK] SKY NEWS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100690
+#EXTINF:-1,[UK] CARTOON NETWORK FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100912
+#EXTINF:-1,[UK] DISNEY CHANNEL FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100913
+#EXTINF:-1,[UK] DISNEY JUNIOR FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100914
+#EXTINF:-1,[UK] NICK FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100917
+#EXTINF:-1,[UK] CBEEBIES FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100919
+#EXTINF:-1,[UK] EDEN FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100798
+#EXTINF:-1,[UK] GOLD FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100800
+#EXTINF:-1,[UK] DAVE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100797
+#EXTINF:-1,[UK] E! ENTERTAINMENT FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100802
+#EXTINF:-1,[UK] MORE 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100803
+#EXTINF:-1,[UK] QUEST FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100804
+#EXTINF:-1,[UK] SKY SHOWCASE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100806
+#EXTINF:-1,[UK] STV FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100808
+#EXTINF:-1,[UK] UTV FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100809
+#EXTINF:-1,[UK] UNIVERSAL FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100810
+#EXTINF:-1,[UK] WATCH FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100811
+#EXTINF:-1,[UK] SKY ATLANTIC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100936
+#EXTINF:-1,[UK] SKY ARTS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100937
+#EXTINF:-1,[UK] SKY MAX FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/547880
+#EXTINF:-1,[UK] SKY WITNESS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100807
+#EXTINF:-1,[UK] TLC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100772
+#EXTINF:-1,[UK] COMEDY CENTRAL FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100916
+#EXTINF:-1,[UK] SKY CINEMA ACTION FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100938
+#EXTINF:-1,[UK] SKY CINEMA COMEDY FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100939
+#EXTINF:-1,[UK] SKY CINEMA FAMILY FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100941
+#EXTINF:-1,[UK] SKY CINEMA PREMIERE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/213526
+#EXTINF:-1,[UK] SKY CINEMA GREATS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100942
+#EXTINF:-1,[UK] SKY CINEMA SCI-FI & HORROR FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100944
+#EXTINF:-1,[UK] SKY CINEMA SUPERHEROES FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100945
+#EXTINF:-1,[UK] SKY CINEMA THRILLER FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100946
+#EXTINF:-1,[UK] SKY CINEMA DRAMA FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100947
+#EXTINF:-1,[UK] SKY CINEMA HITS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100948
+#EXTINF:-1,[UK] SKY CINEMA ANIMATION FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/197793
+#EXTINF:-1,[UK] TCM FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100949
+#EXTINF:-1,[UK] AMC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100950
+#EXTINF:-1,[UK] FILM 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100951
+#EXTINF:-1,[UK] MTV FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101099
+#EXTINF:-1,[UK] MTV LIVE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101100
+#EXTINF:-1,[UK] SKY DOCUMENTARIES FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/543035
+#EXTINF:-1,[UK] DISCOVERY FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100761
+#EXTINF:-1,[UK] NAT GEO FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100762
+#EXTINF:-1,[UK] NAT GEO WILD FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100763
+#EXTINF:-1,[UK] ANIMAL PLANET FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100764
+#EXTINF:-1,[UK] CRIME&INVESTIGATION FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100765
+#EXTINF:-1,[UK] HISTORY FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100766
+#EXTINF:-1,[UK] HISTORY 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100767
+#EXTINF:-1,[UK] PARAMOUNT NETWORK FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100769
+#EXTINF:-1,[UK] SYFY FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100771
+#EXTINF:-1,[UK] SKY NATURE  FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/164493
+#EXTINF:-1,[UK] SKY SPORTS NEWS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101042
+#EXTINF:-1,[UK] SKY SPORTS ACTION FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101043
+#EXTINF:-1,[UK] SKY SPORTS FOOTBALL FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101044
+#EXTINF:-1,[UK] SKY SPORTS PREMIER LEAGUE FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101045
+#EXTINF:-1,[UK] SKY SPORTS MAIN EVENT FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103112
+#EXTINF:-1,[UK] SKY SPORT MIX FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103109
+#EXTINF:-1,[UK] SKY SPORTS RACING FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101047
+#EXTINF:-1,[UK] SKY SPORTS ARENA FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101049
+#EXTINF:-1,[UK] SKY SPORTS CRICKET FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101050
+#EXTINF:-1,[UK] SKY SPORTS F1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101051
+#EXTINF:-1,[UK] SKY SPORTS GOLF FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101052
+#EXTINF:-1,[UK] BT SPORTS ESPN FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101053
+#EXTINF:-1,[UK] BT SPORTS 1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/205999
+#EXTINF:-1,[UK] BT SPORTS 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103146
+#EXTINF:-1,[UK] BT SPORTS 3 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103149
+#EXTINF:-1,[UK] BT SPORTS 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670669
+#EXTINF:-1,[UK] BT SPORTS 5 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670671
+#EXTINF:-1,[UK] EUROSPORTS 1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101057
+#EXTINF:-1,[UK] EUROSPORTS 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101058
+#EXTINF:-1,[UK] FREE SPORTS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101062
+#EXTINF:-1,[UK] LFC FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101063
+#EXTINF:-1,[UK] PREMIER SPORTS FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101064
+#EXTINF:-1,[UK] PREMIER SPORTS 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101065
+#EXTINF:-1,[UK] RACING UK FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101066
+#EXTINF:-1,[UK] MUTV FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101067
+#EXTINF:-1,[UK] CELTIC TV FHD (LIVE ON MATCHES)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/197102
+#EXTINF:-1,-------- [UK] PRIME VIDEO [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] AMAZON PRIME 1
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526190
+#EXTINF:-1,[UK] AMAZON PRIME 2
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526191
+#EXTINF:-1,[UK] AMAZON PRIME 3
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526192
+#EXTINF:-1,[UK] AMAZON PRIME 4
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526193
+#EXTINF:-1,[UK] AMAZON PRIME 5
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526194
+#EXTINF:-1,[UK] AMAZON PRIME 6
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526195
+#EXTINF:-1,[UK] AMAZON PRIME 7
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526196
+#EXTINF:-1,[UK] AMAZON PRIME 8
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526197
+#EXTINF:-1,[UK] AMAZON PRIME 9
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526198
+#EXTINF:-1,[UK] AMAZON PRIME 10
+http://line.4k-ott.com:80/voco432/AF6CD7C7/526199
+#EXTINF:-1,[UK] AMAZON PRIME 11
+http://line.4k-ott.com:80/voco432/AF6CD7C7/715604
+#EXTINF:-1,[UK] AMAZON PRIME 12
+http://line.4k-ott.com:80/voco432/AF6CD7C7/715605
+#EXTINF:-1,[UK] AMAZON PRIME 13
+http://line.4k-ott.com:80/voco432/AF6CD7C7/715603
+#EXTINF:-1,PPV 1: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101925
+#EXTINF:-1,PPV 2: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101926
+#EXTINF:-1,PPV 3: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101927
+#EXTINF:-1,PPV 4: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102872
+#EXTINF:-1,[UK] PPV 5
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102873
+#EXTINF:-1,[UK] PPV 6 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/265303
+#EXTINF:-1,[UK] PPV 7 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/295110
+#EXTINF:-1,[UK] KSW FHD (ONLY LIVE EVENT)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/722519
+#EXTINF:-1,SPFL 01: (19:45   Dundee vs Dunfermline Athletic 10/01)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546776
+#EXTINF:-1,SPFL 02:
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546777
+#EXTINF:-1,SPFL 03: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546778
+#EXTINF:-1,SPFL 04: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546779
+#EXTINF:-1,SPFL 05: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546780
+#EXTINF:-1,SPFL 06: (15:00 AYR UNITED VS HAMILTON ACADEMICAL 07/01)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546781
+#EXTINF:-1,SPFL07: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546782
+#EXTINF:-1,SPFL08: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546783
+#EXTINF:-1,SPFL 09: 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546784
+#EXTINF:-1,SPFL 10:
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546785
+#EXTINF:-1,SPFL 11:
+http://line.4k-ott.com:80/voco432/AF6CD7C7/546786
+#EXTINF:-1,[UK] IFOLLOW 1 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462978
+#EXTINF:-1,[UK] IFOLLOW 2 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462979
+#EXTINF:-1,[UK] IFOLLOW 3 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462980
+#EXTINF:-1,[UK] IFOLLOW 4 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462981
+#EXTINF:-1,[UK] IFOLLOW 5 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462982
+#EXTINF:-1,[UK] IFOLLOW 6 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462983
+#EXTINF:-1,[UK] IFOLLOW 7 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462984
+#EXTINF:-1,[UK] IFOLLOW 8 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462985
+#EXTINF:-1,[UK] IFOLLOW 9 : 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462986
+#EXTINF:-1,[UK] IFOLLOW 10 :  
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462987
+#EXTINF:-1,[UK] IFOLLOW 11 :  Derby County vs Birmingham City 130PM Sunday
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462988
+#EXTINF:-1,[UK] IFOLLOW  12 : Cardiff City vs Nottingham Forest 4PM
+http://line.4k-ott.com:80/voco432/AF6CD7C7/462989
+#EXTINF:-1,[UK] BT SPORTS EXTRA 1 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100857
+#EXTINF:-1,[UK] BT SPORTS EXTRA 2 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100858
+#EXTINF:-1,[UK] BT SPORTS EXTRA 3 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100859
+#EXTINF:-1,[UK] BT SPORTS EXTRA 4 FHD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100860
+#EXTINF:-1,[UK] BT SPORTS EXTRA 5 FHD (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100861
+#EXTINF:-1,[UK] BT SPORTS EXTRA 6 FHD (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100862
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 1 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100863
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 2 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100864
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 3 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100865
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 4 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100866
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 5 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100867
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 6 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100868
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 7 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100869
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 8 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100870
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 9 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100871
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 10 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100872
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 11 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100873
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 13 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100875
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 12 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100874
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 14 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100876
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 15 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100877
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 16 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100878
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 17 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100879
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 18 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100880
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 19 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100881
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 20 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100882
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 21 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100883
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 22 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100884
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 23 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100885
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 24 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100886
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 25 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100887
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 26 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100888
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 27 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100889
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 28 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100890
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 29 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100891
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 30 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100892
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 31 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100893
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 32 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100894
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 33 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100895
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 34 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100896
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 35 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100897
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 36 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100898
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 37 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100899
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 38 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100900
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 39 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100901
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 40 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100902
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 41 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100903
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 42 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100904
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 43 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100905
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 44 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100906
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 45 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100907
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 46 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100908
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 47 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100909
+#EXTINF:-1,[UK] BBC RED BUTTON FHD 48 (ONLY MATCH TIME)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100910
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] BBC1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100665
+#EXTINF:-1,[UK] BBC2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100666
+#EXTINF:-1,[UK] BBC3/CBBC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100667
+#EXTINF:-1,[UK] BBC4/CBEEBIES HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100668
+#EXTINF:-1,[UK] BBC PARLIAMENT HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100669
+#EXTINF:-1,[UK] ITV 1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100670
+#EXTINF:-1,[UK] ITV 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100671
+#EXTINF:-1,[UK] ITV 3 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100672
+#EXTINF:-1,[UK] ITV 4 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100673
+#EXTINF:-1,[UK] ITV BE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100674
+#EXTINF:-1,[UK] GB NEWS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/454911
+#EXTINF:-1,[UK] CHANNEL 4 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100675
+#EXTINF:-1,[UK] CHANNEL 5 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100676
+#EXTINF:-1,[UK] ALIBI HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100678
+#EXTINF:-1,[UK] BBC NEWS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100692
+#EXTINF:-1,[UK] BBC WORLD NEWS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100693
+#EXTINF:-1,[UK] BLOOMBERG HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100694
+#EXTINF:-1,[UK] CNBC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100695
+#EXTINF:-1,[UK] CNN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100696
+#EXTINF:-1,[UK] EURO NEWS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100697
+#EXTINF:-1,[UK] FOX NEWS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100698
+#EXTINF:-1,[UK] FRANCE 24 EN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100699
+#EXTINF:-1,[UK] AL JAZEERA EN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100700
+#EXTINF:-1,[UK] SKY NEWS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100702
+#EXTINF:-1,[UK] FOOD NETWORK HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100704
+#EXTINF:-1,[UK] HOME HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100707
+#EXTINF:-1,[UK] BBC ALBA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100709
+#EXTINF:-1,[UK] BBC SCOTLAND HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100710
+#EXTINF:-1,[UK] BBC ONE SCOTLAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100711
+#EXTINF:-1,[UK] BBC ONE CHANNEL ISLANDS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100713
+#EXTINF:-1,[UK] BBC ONE EAST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100714
+#EXTINF:-1,[UK] BBC ONE EAST MIDLANDS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100715
+#EXTINF:-1,[UK] BBC ONE LONDON HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100716
+#EXTINF:-1,[UK] BBC ONE NORTH EAST & CUMBRIA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100717
+#EXTINF:-1,[UK] BBC ONE NORTH WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100718
+#EXTINF:-1,[UK] BBC ONE NORTHEN ISLAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100719
+#EXTINF:-1,[UK] BBC ONE OXFORD HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100720
+#EXTINF:-1,[UK] BBC ONE SCOTLAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100721
+#EXTINF:-1,[UK] BBC ONE SOUTH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100722
+#EXTINF:-1,[UK] BBC ONE SOUTH EAST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100723
+#EXTINF:-1,[UK] BBC ONE SOUTH WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100724
+#EXTINF:-1,[UK] BBC ONE WALES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100725
+#EXTINF:-1,[UK] BBC ONE WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100726
+#EXTINF:-1,[UK] BBC ONE WEST MIDLANDS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100727
+#EXTINF:-1,[UK] BBC ONE YORKSHIRE & LINCOLNSHIRE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100729
+#EXTINF:-1,[UK] BBC TWO NORTHEN IRELAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100731
+#EXTINF:-1,[UK] BBC TWO WALES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100733
+#EXTINF:-1,[UK] CHANNEL 4 NORTHEN IRELAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100736
+#EXTINF:-1,[UK] ITV LONDON HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/108416
+#EXTINF:-1,[UK] ITV TYNE TEES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100739
+#EXTINF:-1,[UK] ITV ANGLIA EAST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100740
+#EXTINF:-1,[UK] ITV CENTRAL WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100743
+#EXTINF:-1,[UK] ITV GRANADA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100744
+#EXTINF:-1,[UK] ITV MERIDIAN EAST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100745
+#EXTINF:-1,[UK] ITV MERIDIAN TV NORTH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100746
+#EXTINF:-1,[UK] ITV MERIDIAN TV SOUTH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100747
+#EXTINF:-1,[UK] ITV TYNE TEES TV NORTH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100748
+#EXTINF:-1,[UK] ITV WESTCOUNTRY SOUTH WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100749
+#EXTINF:-1,[UK] ITV WESTCOUNTRY WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100750
+#EXTINF:-1,[UK] ITV YORKSHIRE TV EAST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100751
+#EXTINF:-1,[UK] ITV YORKSHIRE WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100752
+#EXTINF:-1,[UK] ITV BORDER HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100753
+#EXTINF:-1,[UK] ITV WALES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100754
+#EXTINF:-1,[UK] STV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100756
+#EXTINF:-1,[UK] STV CENTRAL WEST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100757
+#EXTINF:-1,[UK] STV NORTH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100758
+#EXTINF:-1,[UK] BORDER SCOTLAND TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100759
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] BABY TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100921
+#EXTINF:-1,[UK] BOOMERANG HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100922
+#EXTINF:-1,[UK] CARTOONITO HD (NOT 24)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100923
+#EXTINF:-1,[UK] CARTOON NETWORK HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100924
+#EXTINF:-1,[UK] DISNEY CHANNEL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100927
+#EXTINF:-1,[UK] NICK JR PEPPA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100930
+#EXTINF:-1,[UK] NICK JUNIOR HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100931
+#EXTINF:-1,[UK] NICKELODEON HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100932
+#EXTINF:-1,[UK] NICKTOONS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100933
+#EXTINF:-1,[UK] TINY POP HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100934
+#EXTINF:-1,[UK] TINY POP+1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101151
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] SKY SHOWCASE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100813
+#EXTINF:-1,[UK] SKY TWO HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100814
+#EXTINF:-1,[UK] 4 SEVEN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100815
+#EXTINF:-1,[UK] 5 SELECT HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100816
+#EXTINF:-1,[UK] 5 STAR HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100818
+#EXTINF:-1,[UK] 5 USA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100819
+#EXTINF:-1,[UK] BLAZE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100822
+#EXTINF:-1,[UK] CBS ACTION HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100823
+#EXTINF:-1,[UK] CBS DRAMA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100824
+#EXTINF:-1,[UK] CBS REALITY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100825
+#EXTINF:-1,[UK] CHALLENGE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100827
+#EXTINF:-1,[UK] DAVE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100828
+#EXTINF:-1,[UK] DMAX HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100829
+#EXTINF:-1,[UK] DRAMA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100830
+#EXTINF:-1,[UK] E4 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100832
+#EXTINF:-1,[UK] EDEN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100833
+#EXTINF:-1,[UK] GOLD HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100835
+#EXTINF:-1,[UK] MORE 4 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100837
+#EXTINF:-1,[UK] PBS AMERICA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100839
+#EXTINF:-1,[UK] PICK TV HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100840
+#EXTINF:-1,[UK] QUEST HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100841
+#EXTINF:-1,[UK] QUEST RED HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100842
+#EXTINF:-1,[UK] REALLY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100844
+#EXTINF:-1,[UK] SONY MOVIES HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100845
+#EXTINF:-1,[UK] SONY CRIME 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100847
+#EXTINF:-1,[UK] TRUE ENTERTAINMENT HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100848
+#EXTINF:-1,[UK] TRUE MOVIES HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100849
+#EXTINF:-1,[UK] UNIVERSAL CHANNEL HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100850
+#EXTINF:-1,[UK] UTV ONE +1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100851
+#EXTINF:-1,[UK] UTV ULSTER HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100852
+#EXTINF:-1,[UK] WATCH HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100853
+#EXTINF:-1,[UK] YANGA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100854
+#EXTINF:-1,[UK] YESTERDAY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100855
+#EXTINF:-1,[UK] SKY ATLANTIC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100953
+#EXTINF:-1,[UK] SKY ARTS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100954
+#EXTINF:-1,[UK] SKY MAX HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/547881
+#EXTINF:-1,[UK] QVC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102419
+#EXTINF:-1,[UK] SKY WITNESS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100966
+#EXTINF:-1,[UK] QVC STYLE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102422
+#EXTINF:-1,[UK] QVC EXTRA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102421
+#EXTINF:-1,[UK] QVC BEAUTY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/102420
+#EXTINF:-1,[UK] JML  HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/218518
+#EXTINF:-1,[UK] TLC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100795
+#EXTINF:-1,[UK] COMEDY CENTRAL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100925
+#EXTINF:-1,[UK] COMEDY CENTRAL EXTRA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100926
+#EXTINF:-1,[UK] E! ENTERTAINMENT HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100831
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] SKY CINEMA ACTION HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100955
+#EXTINF:-1,[UK] SKY CINEMA COMEDY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100956
+#EXTINF:-1,[UK] SKY CINEMA DRAMA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100957
+#EXTINF:-1,[UK] SKY CINEMA FAMILY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100959
+#EXTINF:-1,[UK] SKY CINEMA GREATS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100960
+#EXTINF:-1,[UK] SKY CINEMA HITS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100961
+#EXTINF:-1,[UK] SKY CINEMA PREMIERE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/213527
+#EXTINF:-1,[UK] SKY CINEMA SCI-FI & HORROR HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100963
+#EXTINF:-1,[UK] SKY CINEMA SUPERHEROES HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100964
+#EXTINF:-1,[UK] SKY CINEMA THRILLER HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100965
+#EXTINF:-1,[UK] TCM HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100967
+#EXTINF:-1,[UK] AMC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100968
+#EXTINF:-1,[UK] FILM 4 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100969
+#EXTINF:-1,[UK] HORROR CHANNEL HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100970
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] FLIX MUSIC ENGLISH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/309260
+#EXTINF:-1,[UK] FLIX MUSIC BEST REMIX HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/509993
+#EXTINF:-1,[UK] FLIX MUSIC CHILL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/510741
+#EXTINF:-1,[UK] FLIX MUSIC BILLBOARD HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/509992
+#EXTINF:-1,[UK] FLIX MUSIC OLD SCHOOL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/530155
+#EXTINF:-1,[UK] FLIX MUSIC HOUSE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/510740
+#EXTINF:-1,[UK] FLIX MUSIC ACOUSTIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/549033
+#EXTINF:-1,[UK] CLUBLAND HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101104
+#EXTINF:-1,[UK] KERRANG HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101105
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] SKY DOCUMENTARIES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/543036
+#EXTINF:-1,[UK] DISCOVERY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100774
+#EXTINF:-1,[UK] DISCOVERY HISTORY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100775
+#EXTINF:-1,[UK] DISCOVERY SCIENCE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100777
+#EXTINF:-1,[UK] DISCOVERY TURBO HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100779
+#EXTINF:-1,[UK] NAT GEO HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100780
+#EXTINF:-1,[UK] NAT GEO WILD HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100781
+#EXTINF:-1,[UK] ANIMAL PLANET HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100782
+#EXTINF:-1,[UK] TRAVEL CHANNEL HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100783
+#EXTINF:-1,[UK] CRIME&INVESTIGATION HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100784
+#EXTINF:-1,[UK] HISTORY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100786
+#EXTINF:-1,[UK] HISTORY 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100787
+#EXTINF:-1,[UK] HORSE AND COUNTRY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100788
+#EXTINF:-1,[UK] INVESTIGATION DISCOVERY (ID) HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100789
+#EXTINF:-1,[UK] PARAMOUNT NETWORK HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100792
+#EXTINF:-1,[UK] SHOWCASE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100793
+#EXTINF:-1,[UK] SYFY HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/100794
+#EXTINF:-1,[UK] SKY NATURE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/164494
+#EXTINF:-1,-------- [UK] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] BEIN SPORT GLOBAL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112437
+#EXTINF:-1,[UK] BEIN SPORTS NBA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112438
+#EXTINF:-1,[UK] BEIN SPORTS 1 ENGLISH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112452
+#EXTINF:-1,[UK] BEIN SPORTS 2 ENGLISH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112453
+#EXTINF:-1,[UK] BEIN SPORTS 3 ENGLISH HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112454
+#EXTINF:-1,[UK] BEIN SPORTS PREMIUM 1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112440
+#EXTINF:-1,[UK] BEIN SPORTS PREMIUM 2 HD 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112441
+#EXTINF:-1,[UK] BEIN SPORTS PREMIUM 3 HD 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112442
+#EXTINF:-1,[UK] BEIN SPORTS 1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112449
+#EXTINF:-1,[UK] BEIN SPORTS 2 HD 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112450
+#EXTINF:-1,[UK] BEIN SPORTS 3 HD 
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112451
+#EXTINF:-1,[UK] BEIN SPORTS 4 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112443
+#EXTINF:-1,[UK] BEIN SPORTS 5 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112444
+#EXTINF:-1,[UK] BEIN SPORTS 6 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112445
+#EXTINF:-1,[UK] BEIN SPORTS 7 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/112446
+#EXTINF:-1,[UK] SKY SPORTS MAIN EVENT HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101023
+#EXTINF:-1,[UK] SKY SPORTS NEWS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101019
+#EXTINF:-1,[UK] SKY SPORTS ACTION HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101020
+#EXTINF:-1,[UK] SKY SPORTS FOOTBALL HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101021
+#EXTINF:-1,[UK] SKY SPORTS PREMIER LEAGUE HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101022
+#EXTINF:-1,[UK] SKY SPORTS ARENA HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101024
+#EXTINF:-1,[UK] SKY SPORTS CRICKET HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101025
+#EXTINF:-1,[UK] SKY SPORTS GOLF HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101027
+#EXTINF:-1,[UK] SKY SPORTS F1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101026
+#EXTINF:-1,[UK] SKY SPORTS RACING HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101074
+#EXTINF:-1,[UK] SKY SPORT MIX HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103111
+#EXTINF:-1,[UK] BT SPORTS MOSAIC HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101084
+#EXTINF:-1,[UK] BT SPORTS ESPN HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101028
+#EXTINF:-1,[UK] BT SPORTS 1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103142
+#EXTINF:-1,[UK] BT SPORTS 2  HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103145
+#EXTINF:-1,[UK] BT SPORTS 3 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103148
+#EXTINF:-1,[UK] RANGERS FC TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/292939
+#EXTINF:-1,[UK] CHELSEA TV HD (LIVE ON MATCHES)
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101032
+#EXTINF:-1,[UK] ASTRO SUPERSPORT HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/556245
+#EXTINF:-1,[UK] ASTRO SUPERSPORT 2 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/556246
+#EXTINF:-1,[UK] ASTRO SUPERSPORT 3 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/556247
+#EXTINF:-1,[UK] ASTRO SUPERSPORT 4 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/556248
+#EXTINF:-1,[UK] SUPERSPORT VARIETY 1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248275
+#EXTINF:-1,[UK] SUPERSPORT VARIETY 2 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248279
+#EXTINF:-1,[UK] SUPERSPORT VARIETY 3 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248280
+#EXTINF:-1,[UK] SUPERSPORT VARIETY 4 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248281
+#EXTINF:-1,[UK] SUPERSPORT PREMIER LEAGUE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248283
+#EXTINF:-1,[UK] SUPERSPORT LALIGA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248284
+#EXTINF:-1,[UK] SUPERSPORT FOOTBALL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248285
+#EXTINF:-1,[UK] SUPERSPORT TENNIS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248276
+#EXTINF:-1,[UK] SUPERSPORT RUGBY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248277
+#EXTINF:-1,[UK] SUPERSPORT CRICKET HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248278
+#EXTINF:-1,[UK] SUPERSPORT GOLF HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248287
+#EXTINF:-1,[UK] SUPERSPORT MOTOSPORT HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248272
+#EXTINF:-1,[UK] SUPERSPORT PLAY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248273
+#EXTINF:-1,[UK] SUPERSPORT BLITZ HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248286
+#EXTINF:-1,[UK] SUPERSPORT MAXIMO HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248288
+#EXTINF:-1,[UK] EUROSPORT 1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101089
+#EXTINF:-1,[UK] EUROSPORT 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101090
+#EXTINF:-1,[UK] FREE SPORTS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101092
+#EXTINF:-1,[UK] LFC TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101093
+#EXTINF:-1,[UK] MUTV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101094
+#EXTINF:-1,[UK] PREMIER SPORTS HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101095
+#EXTINF:-1,[UK] PREMIER SPORTS 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101096
+#EXTINF:-1,[UK] RACING UK HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101097
+#EXTINF:-1,-------- [UK] [SD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] [SD] POP HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101119
+#EXTINF:-1,[UK] [SD] POP MAX HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101120
+#EXTINF:-1,[UK] [SD] KISS TV HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101106
+#EXTINF:-1,[UK] [SD] MAGIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101107
+#EXTINF:-1,[UK] [SD] MTV BASE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101109
+#EXTINF:-1,[UK] [SD] MTV CLASSIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101110
+#EXTINF:-1,[UK] [SD] MTV HITS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101112
+#EXTINF:-1,[UK] [SD] MTV MUSIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101113
+#EXTINF:-1,[UK] [SD] MTV ONE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101114
+#EXTINF:-1,[UK] [SD] MTV LIVE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101115
+#EXTINF:-1,[UK] [SD] NOW 80S HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101117
+#EXTINF:-1,[UK] [SD] NOW MUSIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101118
+#EXTINF:-1,[UK] [SD] THE VAULT HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101121
+#EXTINF:-1,[UK] [SD] NOW 70 S HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101122
+#EXTINF:-1,[UK] [SD] THE BOX HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101124
+#EXTINF:-1,[UK] [SD] 4 MUSIC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/101125
+#EXTINF:-1,[UK] [SD] TRACE URBAN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206001
+#EXTINF:-1,[UK] [SD] TRACE VAULT HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206000
+#EXTINF:-1,[UK] [SD] MC MUSIC Y2K HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206066
+#EXTINF:-1,[UK] [SD] MC MUSIC TODDLER TUNES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206064
+#EXTINF:-1,[UK] [SD] MC MUSIC TODAYS COUNTRY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206063
+#EXTINF:-1,[UK] [SD] MC MUSIC THROWBACK JAMZ HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206062
+#EXTINF:-1,[UK] [SD] MC MUSIC ROCK HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206059
+#EXTINF:-1,[UK] [SD] MC MUSIC RAP 2K HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206058
+#EXTINF:-1,[UK] [SD] MC MUSIC RAP HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206057
+#EXTINF:-1,[UK] [SD] MC MUSIC R&B SOUL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206056
+#EXTINF:-1,[UK] [SD] MC MUSIC R&B HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206055
+#EXTINF:-1,[UK] [SD] MC MUSIC POP LATINO HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206054
+#EXTINF:-1,[UK] [SD] MC MUSIC POP HITS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206053
+#EXTINF:-1,[UK] [SD] MC MUSIC POP & COUNTRY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206052
+#EXTINF:-1,[UK] [SD] MC MUSIC MEXICANA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206051
+#EXTINF:-1,[UK] [SD] MC MUSIC METAL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206050
+#EXTINF:-1,[UK] [SD] MC MUSIC KIDZ ONLY! HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206049
+#EXTINF:-1,[UK] [SD] MC MUSIC INDIE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206047
+#EXTINF:-1,[UK] [SD] MC MUSIC HIT LIST HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206045
+#EXTINF:-1,[UK] [SD] MC MUSIC HIP-HOP AND R&B HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206044
+#EXTINF:-1,[UK] [SD] MC MUSIC DANCE/ EDM HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206043
+#EXTINF:-1,[UK] [SD] MC MUSIC BRITISH HITS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206042
+#EXTINF:-1,[UK] [SD] MC MUSIC ALTERNATIVE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206041
+#EXTINF:-1,[UK] [SD] MC MUSIC 90S HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/206040
+#EXTINF:-1,-------- [UK] [SD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] [SD] BT SPORTS 1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103144
+#EXTINF:-1,[UK] [SD] BT SPORTS 2 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103147
+#EXTINF:-1,[UK] [SD] BT SPORTS 3 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/103150
+#EXTINF:-1,[UK] [SD] BT SPORTS 4 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670678
+#EXTINF:-1,[UK] [SD] BT SPORTS 5 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670672
+#EXTINF:-1,[UK] [SD] BT SPORTS 6 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670673
+#EXTINF:-1,[UK] [SD] BT SPORTS 7 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670674
+#EXTINF:-1,[UK] [SD] BT SPORTS 8 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670675
+#EXTINF:-1,[UK] [SD] BT SPORTS 9 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670676
+#EXTINF:-1,[UK] [SD] BT SPORTS 10 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/670677
+#EXTINF:-1,-------- [UK] [HD] FLIX KIDS --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] FLIX KIDS MR BEAN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209676
+#EXTINF:-1,[UK] FLIX KIDS ALADDIN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598009
+#EXTINF:-1,[UK] FLIX KIDS SUPERMAN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598006
+#EXTINF:-1,[UK] FLIX KIDS TOY STORY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598007
+#EXTINF:-1,[UK] FLIX KIDS TOM AND JERRY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/596063
+#EXTINF:-1,[UK] FLIX KIDS MARVEL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598346
+#EXTINF:-1,[UK] FLIX KIDS DC HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598008
+#EXTINF:-1,[UK] FLIX KIDS DISNEY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598005
+#EXTINF:-1,[UK] FLIX KIDS THE PINK PANTHER HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209680
+#EXTINF:-1,[UK] FLIX KIDS SHAUN THE SHEEP HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209684
+#EXTINF:-1,[UK] FLIX KIDS LOONEY TUNES HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209675
+#EXTINF:-1,[UK] FLIX KIDS GOOFY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209672
+#EXTINF:-1,[UK] FLIX KIDS BABY SHARK HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/595252
+#EXTINF:-1,[UK] FLIX KIDS OMAR AND HANA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/595251
+#EXTINF:-1,[UK] FLIX KIDS DONALD DUCK HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209671
+#EXTINF:-1,[UK] FLIX KIDS PLUTO HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/209683
+#EXTINF:-1,-------- [UK] [HD] FLIX MOVIES --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[UK] FLIX MOVIES 4K
+http://line.4k-ott.com:80/voco432/AF6CD7C7/629745
+#EXTINF:-1,[UK] FLIX MOVIES MARVEL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/636992
+#EXTINF:-1,[UK] FLIX MOVIES NETFLIX HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/447573
+#EXTINF:-1,[UK] FLIX MOVIES AMAZON PRIME HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/678028
+#EXTINF:-1,[UK] FLIX MOVIES DISNEY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/654870
+#EXTINF:-1,[UK] FLIX MOVIES SPEED HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/644954
+#EXTINF:-1,[UK] FLIX MOVIES ACTION HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175738
+#EXTINF:-1,[UK] FLIX MOVIES CHRISTMAS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/531106
+#EXTINF:-1,[UK] FLIX MOVIES DRAMA HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175744
+#EXTINF:-1,[UK] FLIX MOVIES ROMANCE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175745
+#EXTINF:-1,[UK] FLIX MOVIES FAMILY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/637002
+#EXTINF:-1,[UK] FLIX MOVIES COMEDY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175741
+#EXTINF:-1,[UK] FLIX MOVIES ANIMATION HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175740
+#EXTINF:-1,[UK] FLIX MOVIES HORROR HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/222988
+#EXTINF:-1,[UK] FLIX MOVIES WAR HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175746
+#EXTINF:-1,[UK] FLIX MOVIES CRIME HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175743
+#EXTINF:-1,[UK] FLIX MOVIES DOCUMENTARY HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175742
+#EXTINF:-1,[UK] FLIX MOVIES WESTERN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/175747
+#EXTINF:-1,[UK] FLIX MOVIES BATMAN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598004
+#EXTINF:-1,[UK] FLIX MOVIES ROBERT DE NIRO
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598742
+#EXTINF:-1,[UK] FLIX MOVIES TWILIGHT HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/598345
+#EXTINF:-1,[UK] FLIX MOVIES JACKIE CHAN HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/210085
+#EXTINF:-1,[UK] FLIX MOVIES TOM CRUISE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/234722
+#EXTINF:-1,[UK] FLIX MOVIES VIN DIESEL HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/248175
+#EXTINF:-1,[UK] FLIX MOVIES DENZEL WASHINGTON HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/270441
+#EXTINF:-1,[UK] FLIX MOVIES BRUCE WILLIS HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/177561
+#EXTINF:-1,[UK] FLIX MOVIES AL PACINO HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/458431
+#EXTINF:-1,[UK] FLIX MOVIES MATT DAMON HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/237857
+#EXTINF:-1,[UK] FLIX MOVIES NICOLAS CAGE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/204492
+#EXTINF:-1,[UK] FLIX MOVIES SYLVESTER STALLONE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/211804
+#EXTINF:-1,[UK] FLIX MOVIES UNDERWORLD HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/595248
+#EXTINF:-1,[UK] FLIX MOVIES TERMINATOR HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/595250
+#EXTINF:-1,[CA] [HD] DAZN 1 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614193
+#EXTINF:-1,[CA] [HD] DAZN 2 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614194
+#EXTINF:-1,[CA] [HD] DAZN 3 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614195
+#EXTINF:-1,[CA] [HD] DAZN 4 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614196
+#EXTINF:-1,[CA] [HD] DAZN 5 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614197
+#EXTINF:-1,[CA] [HD] DAZN 6 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614198
+#EXTINF:-1,[CA] [HD] DAZN 7 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614199
+#EXTINF:-1,[CA] [HD] DAZN 8 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614200
+#EXTINF:-1,[CA] [HD] DAZN 9 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614201
+#EXTINF:-1,[CA] [HD] DAZN 10 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614202
+#EXTINF:-1,[CA] [HD] DAZN 11 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614203
+#EXTINF:-1,[CA] [HD] DAZN 12 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614204
+#EXTINF:-1,[CA] [HD] DAZN 13 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/614205
+#EXTINF:-1,[FR] CANAL+ PREMIER LEAGUE HEVC
+http://line.4k-ott.com:80/voco432/AF6CD7C7/346581
+#EXTINF:-1,[FR] CANAL+ PREMIER LEAGUE HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/346588
+#EXTINF:-1,[FR] CANAL+ PREMIER LEAGUE SD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/346589
+#EXTINF:-1,[FR] RMC SPORT 1 HEVC
+http://line.4k-ott.com:80/voco432/AF6CD7C7/130933
+#EXTINF:-1,[FR] RMC SPORT 1 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/131354
+#EXTINF:-1,[FR] RMC SPORT 1 SD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/131355
+#EXTINF:-1,[FR] RMC SPORT 2 HEVC
+http://line.4k-ott.com:80/voco432/AF6CD7C7/130934
+#EXTINF:-1,[FR] RMC SPORT 2 HD ?
+http://line.4k-ott.com:80/voco432/AF6CD7C7/131356
+#EXTINF:-1,[FR] RMC SPORT 2 SD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/131357
+#EXTINF:-1,[FR] RMC SPORT LIVE 3 HEVC
+http://line.4k-ott.com:80/voco432/AF6CD7C7/359754
+#EXTINF:-1,[FR] RMC SPORT LIVE 3 HD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/359756
+#EXTINF:-1,[FR] RMC SPORT LIVE 3 SD
+http://line.4k-ott.com:80/voco432/AF6CD7C7/359757
